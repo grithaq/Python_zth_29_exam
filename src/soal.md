@@ -30,7 +30,7 @@
 
     Berikut ini adalah sebuah Class diagram untuk membuat pencatatan keuangan berbasis web apps.
 
-    ![jurnal_keuangan](/asset/img/junal_keuangan.png)
+    ![jurnal_img](/src/img/junal_keuangan.png)
 
     Buatlah web dari class diagram diatas dengan fitur sebagai berikut:
 
