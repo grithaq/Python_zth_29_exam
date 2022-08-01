@@ -20,7 +20,7 @@
             Output
 
             jumlah_angka_sama = 2
-            angka_yang_sama = [2,9]
+            angka_yang_sama = [3,9]
 
 - Python Packaging and Upload to PIPY
     - Buatlah sebuah package untuk menyimpan function yang sudah anda buat pada soal nomor 1.
